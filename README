@@ -5,7 +5,9 @@ _/ ___\/  _ \_  __ \   __\__  \   / __ |/  _ \
  \___  >____/|__|   |__| (____  /\____ |\____/ 
      \/                       \/      \/       
 
-This is a Minijava compiler written in java.
+Compiler for Java written in Java!
+
+@authors: Samuel Wejéus, Emil Arfvidsson
 
 -- Minijava specification --
 http://www.csc.kth.se/utbildning/kth/kurser/DD2488/komp11/project/newgrammar.pdf
